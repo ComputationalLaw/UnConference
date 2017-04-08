@@ -1,4 +1,4 @@
-# [Unconference(http://unconf.org) Unified Google Slide Deck: 
+# [Unconference](http://unconf.org) Unified Google Slide Deck: 
 
 <iframe src="https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
