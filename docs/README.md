@@ -1,4 +1,5 @@
-**Unconference Briefing Book: Music City Legal Hackathon**
+# Unconference-in-a-Box: 
+**Developed by law.MIT.edu for the Music City Legal Hackathon**
 
 The following outline is for April 8th, 2017
 
