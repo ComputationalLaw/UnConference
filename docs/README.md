@@ -28,6 +28,12 @@ The materials reflect and work with the shared Google Slide deck for unconferenc
 
 When I get back to my office I'll make the Google Slide deck for you with the three Slide template per season, namely 1) title/proposer, 2) session notes and 3) if applicable, describe solutions or other ideas related to non-profit problem statements that arise during the session. 
 
+### Initial Slide Deck Here:
+
+Embed of Slide Deck Here: [https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000](https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000)
+
+<iframe src="https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
    
 ## Supporting Facilitator(s) 
 
