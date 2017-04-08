@@ -1,7 +1,6 @@
 **Unconference Briefing Book: Music City Legal Hackathon**
 
-
-So you are not stuck tomorrow morning, I'll do the following:
+The following outline is for April 8th, 2017
 
 ## Materials at: http://UnConf.org
 
