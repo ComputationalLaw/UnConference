@@ -1,17 +1,32 @@
 # Unconference-in-a-Box: 
-**Developed by law.MIT.edu for the Music City Legal Hackathon**
+**Open Source Materials Developed for the Music City Legal Hackathon & UnConference**
 
 The following outline is for April 8th, 2017
 
-## Materials at: http://UnConf.org
+## Materials at: [UnConf.org](http://UnConf.org)
 
-**UPDATE:** Materials will be backed up at and available through a mirror version at: http://MIT.edu/Law/MusicCityLegalHackathon  If there are issues with the domain name, the site at UnConf.org is also available at the native GitHub Pages URL: https://computationallaw.github.io/UnConference  
+If there are issues with the domain name, the site at UnConf.org is also available at the native GitHub Pages URL: https://computationallaw.github.io/UnConference  
 
-I'll create a directory and upload basic materials for your team and event participants on "how to self-organize an unconference".  Look for a short description of the basic process, a simple checklist for people who have ideas and want to lead a discussing on "proposing, pitching and running a session" and a corresponding simple checklist for participants on "choosing and participating in sessions"  some "template" materials. The materials reflect and work with the shared Google Slide deck for unconference sessions that we outlined with Tom. 
+**UPDATE:** Let’s use the GitHub accessible site above (at UnConf.org) for ease of rapid updates and adding more cooks to the kitchen.  For long term access purposes, the Computational Law research program at MIT will also back materials up for you at a mirror version here: http://MIT.edu/Law/MusicCityLegalHackathon  
+
+## Contents in Progress 
+
+The following materials for Music City Legal Hackathon UnConference are under development and will be linked as they become available for review/feedback and use:
+
+
+* I’ll create a directory and upload basic materials for your team and event participants on "how to self-organize an unconference" to unconf.org .  
+
+* Look for a short description of the basic process, 
+* a simple checklist for people who have ideas and want to lead a discussing on "proposing, pitching and running a session" 
+* a corresponding simple checklist for participants on "choosing and participating in sessions"  
+* some "template" materials
+* I'll also make a brief and simple little video for you to play for unconference-goers that talks through the basic concept of how Unconfernces are different, what to expect and how to 1) lead, 2) participate in, 3) take notes for and 3) report out about a session. 
+
+## Unified Google Slide Deck: 
+
+The materials reflect and work with the shared Google Slide deck for unconference sessions that we outlined with Tom. 
 
 When I get back to my office I'll make the Google Slide deck for you with the three Slide template per season, namely 1) title/proposer, 2) session notes and 3) if applicable, describe solutions or other ideas related to non-profit problem statements that arise during the session. 
-
-I'll also make a brief and simple little video for you to play for unconference-goers that talks through the basic concept of how Unconfernces are different, what to expect and how to 1) lead, 2) participate in, 3) take notes for and 3) report out about a session. 
 
    
 ## Supporting Facilitator(s) 
