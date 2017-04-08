@@ -1,4 +1,14 @@
-# Unconference-in-a-Box: 
+# Unconference-in-a-Box for Music City Legal Hackathon
+
+## Unified Google Slide Deck: 
+
+Embed of Slide Deck Here: [https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000](https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000)
+
+<iframe src="https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+# UnConference Pre-Event Logistic
+
 **Open Source Materials Developed for the Music City Legal Hackathon & UnConference**
 
 The following outline is for April 8th, 2017
@@ -21,23 +31,6 @@ The following materials for Music City Legal Hackathon UnConference are under de
 * a corresponding simple checklist for participants on "choosing and participating in sessions"  
 * some "template" materials
 * I'll also make a brief and simple little video for you to play for unconference-goers that talks through the basic concept of how Unconfernces are different, what to expect and how to 1) lead, 2) participate in, 3) take notes for and 3) report out about a session. 
-
-## Unified Google Slide Deck: 
-
-The materials reflect and work with the shared Google Slide deck for unconference sessions that we outlined with Tom. 
-
-When I get back to my office I'll make the Google Slide deck for you with the three Slide template per season, namely 1) title/proposer, 2) session notes and 3) if applicable, describe solutions or other ideas related to non-profit problem statements that arise during the session. 
-
-### Initial Slide Deck Here:
-
-Embed of Slide Deck Here: [https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000](https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/pub?start=false&loop=true&delayms=3000)
-
-<iframe src="https://docs.google.com/presentation/d/1IFLDdmY4rCsKPXxtxcyFYiOd6O4iRPEj72YYaSw2BWc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-   
-## Supporting Facilitator(s) 
-
-If you can put me in touch with somebody who you think would be good at managing the unconference I'd be happy to get on a call or Hangout with them to talk through how they can facilitate the flow.  In addition 
 
 ##  Session Timing: 
 
